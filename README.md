@@ -38,5 +38,5 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 ## 3月29前完成<br>
 1）3月16前准备物料开发板外壳设计结构设计<br>
 2）3月16-29日软硬件功能实现、各传感器测试、调试优化，app开发<br>
-3）产品优化测试试用，记录整理整个过程
+3）产品优化测试试用，记录整理整个过程<br>
 4）3月29日前整体调试，并完成视频录制剪辑上传，ppt介绍产品说明。
