@@ -30,6 +30,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 * 参数记录优化
 * 安全防倒/密封防潮
 * 红外感应/测温
+* 可充电
 ### 如有其它需求也可：
 替换模块-浇花、喂鱼<br>
 也可用于老年、小孩定量用药等场景<br>
