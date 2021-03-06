@@ -23,8 +23,11 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 * 语音对话（物资丰富可增加摄像头）<br>
 * 监控室内温湿度变化情况<br>
 * 缺料提醒<br>
-* 可拆洗清洁<br>
+* 可拆洗清洁，保持卫生，自加热防止结冰<br>
 * 奖励加餐<br>
+* 娱乐音效/氛围灯/乒乓球发射（逗猫狗）
+* app操作
+* 参数记录优化
 ### 如有其它需求也可：
 替换模块-浇花、喂鱼<br>
 也可用于老年、小孩定量用药等场景<br>
